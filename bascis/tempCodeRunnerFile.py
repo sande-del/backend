@@ -1,0 +1,1 @@
+# Observe what happens when you try to store a print() output
